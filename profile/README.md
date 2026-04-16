@@ -55,7 +55,7 @@ Atendemos distribuidores, fabricantes e varejistas dos mais diversos segmentos:
 Somos uma equipe que preza pela **qualidade, organização e colaboração** no código.  
 Antes de contribuir com qualquer repositório, leia nosso guia de boas práticas:
 
-📖 **[Etiqueta à Mesa — Padrões de Commits e Branches](./CONTRIBUTING.md)**
+📖 **[Etiqueta à Mesa — Padrões de Commits e Branches](../CONTRIBUTING.md)**
 
 > Lá você encontra os padrões de commits (Conventional Commits em português),  
 > nomenclatura de branches, fluxo de trabalho e exemplos práticos.
